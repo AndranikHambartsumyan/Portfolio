@@ -1,5 +1,7 @@
 # Portfolio
 
+# ABOUT ME
+
 Detail-oriented Manual QA Tester with a strong  foundation in software testing principles, bug tracking, and test case development. I quickly 
 learn new tools and technologies, with hands-on experience in writing test scenarios, executing 
 test cases, and reporting defects.  I also have extensive gaming experience, having 
