@@ -34,3 +34,20 @@ Additionally, I completed an internship at SCEON, where I further developed my s
  Web Development
   - HTML/CSS
   - JS
+
+# Soft skills 🚀
+ - Understanding of SDLC
+ - Customer Service
+ - Analytical thinking
+ - Problem solving
+ - Attention to detai
+ - Multitasking
+ - Decision making
+ - Adaptability
+
+# Languages 🌍
+| 🌐 Language | 🔤 Level             |
+|------------|---------------------|
+| 🇬🇧 English | B2 – Upper-Intermediate |
+| 🇷🇺 Russian | C2 – Native         |
+| 🇦🇲 Armenian | C1 – Fluent         |
