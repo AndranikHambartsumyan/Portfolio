@@ -19,18 +19,18 @@ Additionally, I completed an internship at SCEON, where I further developed my s
 
 # Tech skills 💻
 
-1 Testing Tools
+ Testing Tools
   - TestRail
   - Postman
   - Charles Proxy
   - Jmeter
-2 Project managment tools
+ Project managment tools
   - Jira
   - Trello
   - Confluence
   - Asana
   - Bugzilla
   - Mantis
-3 Web Development
+ Web Development
   - HTML/CSS
   - JS
