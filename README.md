@@ -46,8 +46,10 @@ Additionally, I completed an internship at SCEON, where I further developed my s
  - Adaptability
 
 # Languages 🌍
-| 🌐 Language | 🔤 Level             |
-|------------|---------------------|
-| 🇬🇧 English | B2 – Upper-Intermediate |
-| 🇷🇺 Russian | C2 – Native         |
-| 🇦🇲 Armenian | C1 – Fluent         |
+| 🌐 Language | 🔤 Level                  |
+|------------|---------------------------|
+| 🇬🇧 English | B2 – Upper-Intermediate   |
+| 🇷🇺 Russian | C2 – Native               |
+| 🇦🇲 Armenian | C1 – Fluent               |
+| 🇩🇪 German  | C1 – Advanced             |
+| 🇹🇷 Turkish | B1 – Intermediate         |
